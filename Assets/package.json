@@ -1,0 +1,12 @@
+{
+    "name": "com.framepush.randomcolorunity",
+    "displayName": "Random Color Unity",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Random color generator with nice distribution and uniqueness to colors.",
+    "keywords": [
+        "color",
+        "random"
+    ],
+    "category": "Unity"
+}
