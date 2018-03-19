@@ -1,0 +1,8 @@
+{
+    "name": "RandomColorUnity.Runtime",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
